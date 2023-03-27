@@ -1,7 +1,7 @@
 <template>
     <div class="center">
         <v-row>
-            <v-col cols="10" sm="6" md="4" offset-md="4" offset-sm="3" offset="1" style="background-color: pink">
+            <v-col cols="10" sm="6" offset-sm="3" md="4" offset-md="4"  offset="1" style="background-color: pink">
                 <h1>
                     <v-avatar size="95" tile>
                         <v-img src="@/assets/logo.png"></v-img>
